@@ -1,2 +1,2 @@
 # Portfolio-my-friend
-Portfolio my friend: (HTML/CSS)
+Portfolio my friend: HTML/CSS
